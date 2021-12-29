@@ -1,0 +1,47 @@
+body{
+  background-image: url("/Users/natehamilton/Desktop/first_one/IMG_20171103_164603465.jpeg");
+  <link rel="stylesheet" type="text/css" href="position.css">;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+h2{
+  font-size: 50px;
+  position: relative;
+  margin-top: 45px;
+}
+
+ul{
+  margin: 20px auto;
+  padding: 0 20px;
+  text-align: left;
+
+
+}
+
+li{
+  color: white;
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-left: 10px;
+  width: 80;
+  font-weight: 200;
+
+}
+
+p{
+  color: hsl(190, 25%, 18%);
+  font-size: 2em;
+}
+
+p2{
+  font-size: 3em;
+  color: hsl(289, 40%, 45%);
+}
+
+p3{
+  color: hsl(217, 25%, 67%);
+  font-size: 2.5em;
+}
